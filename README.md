@@ -5,5 +5,5 @@ In order to use this application, you may want to have a basic understanding of 
 
 The Basics (more info coming, later)
 platform: latest Raspbery Pi OS, runnng on the Raspberry Pi
-Hotword: system command
+Hotword: system command.\n
 all commands are listed, in some detail, in the main.py file

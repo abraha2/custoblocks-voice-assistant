@@ -1,13 +1,12 @@
-# RPI-home-assistant
+## Welcome to RPI-home-assistant
+  The very first open source, fully customisable, voice assistant for the Raspberry Pi!
 
-Welcome to the open source home Assistant, for the Raspberry Pi!
+In order to use this application, you may need [some basic Python skills.](https://www.learnpython.org/)
 
-In order to use this application, you may want to have a basic understanding of Python.
-
-The Basics (more info coming, later):
+### The Basics (more info coming, later):
 
 platform: latest Raspbery Pi OS, runnng on the Raspberry Pi
 
-Hotword: system command.
+Hotword (that word you say to make it listen): "system command"
 
-All commands are listed, in some detail, in the main.py file
+All of the supported commands are listed, in some detail, in the main.py file

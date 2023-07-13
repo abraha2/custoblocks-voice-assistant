@@ -1,7 +1,7 @@
 ## Welcome to RPI-home-assistant
   The very first open source, fully customisable, voice assistant for the Raspberry Pi!
 
-<i>Come see [our wiki!]()
+<i>Come see [our wiki!](https://github.com/abraha2/custoblocks-voice-assistant/wiki)</i>
 
   <i>This code was inspired by (and partly borrowed from) Programming Hero, a YouTuber who aims to make coding more fun, for everyone.</i>
 

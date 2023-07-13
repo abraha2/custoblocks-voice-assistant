@@ -16,6 +16,6 @@ Hotword (that word you say to make it listen): "system command"
 How to install:<br>
 After navigating to the repository's folder in the shell window, execute this command:<br>
 `sudo ./setup.sh`<br>
-in the terminal
+in the terminal. This will install all the necessary python packages, to run the assistant
 
 All of the supported commands are listed, in some detail, in the main.py file

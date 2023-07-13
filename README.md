@@ -18,4 +18,4 @@ After navigating to the repository's folder in the shell window, execute this co
 `sudo ./setup.sh`<br>
 in the terminal. This will install all the necessary python packages, to run the assistant
 
-All of the supported commands are listed, in some detail, in the main.py file
+All of the supported commands are listed, in some detail, in the main.py file, or (in more detail) in our wiki. (link at the top)

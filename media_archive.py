@@ -7,7 +7,7 @@ and the definition is the song's filesystem path.
 
 #defining variables
 #this is the filepath dictionary, it contains music filepaths.
-filepath_dict = {"step step": "/home/abraham/Music/.anime/Elza Kanzaki/Step, Step (320K).mp3"}
+filepath_dict = {"": ""}
 
 def media_archive(title):
     if title != "":

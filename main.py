@@ -10,7 +10,7 @@ from str_to_num import str_to_num
 import math_module
 import os
 
-model = Model(r"/home/abraham/Documents/scripts/Lauros/vosk-model-small-en-us-0.15")
+model = Model(r"/home/pi/Documents/scripts/Lauros/vosk-model-small-en-us-0.15")
 recognizer = KaldiRecognizer(model,16000)
 
 mic = pyaudio.PyAudio()

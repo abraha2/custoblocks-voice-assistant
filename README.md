@@ -1,4 +1,4 @@
-## Welcome to RPI-home-assistant
+## Welcome to custoblocks-voice-assistant!
   The very first open source, fully customisable, voice assistant for the Raspberry Pi!
 
 <i>Come see [our wiki!](https://github.com/abraha2/custoblocks-voice-assistant/wiki)</i>

@@ -11,7 +11,7 @@ In order to use this application, you may need [some basic Python skills.](https
 
 platform: latest Raspbery Pi OS, runnng on the Raspberry Pi
 
-Hotword (that word you say to make it listen): "system command"
+Default hotword (that word you say to make it listen): "system command"
 
 How to install:<br>
 After navigating to the repository's folder in the shell window, execute this command:<br>

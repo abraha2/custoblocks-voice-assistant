@@ -9,7 +9,7 @@ In order to use this application, you may need [some basic Python skills.](https
 
 ### The Basics (more info coming, later):
 
-platform: latest Raspbery Pi OS, runnng on the Raspberry Pi
+platform: Raspberry Pi, running the latest Raspberry Pi OS.
 
 Default hotword (that word you say to make it listen): "system command"
 

@@ -7,7 +7,7 @@
 
 In order to use this application, you may need [some basic Python skills.](https://www.learnpython.org/)
 
-### The Basics (more info coming, later):
+### The Basics:
 
 platform: Raspberry Pi, running the latest Raspberry Pi OS.
 
